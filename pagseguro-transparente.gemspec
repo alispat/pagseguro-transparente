@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "httparty", '~> 0.13'
   spec.add_dependency "nokogiri", '~> 1.6'
   spec.add_dependency "json", '~> 1.8.2'
-  spec.add_dependency "i18n", '~> 0.7'
+  spec.add_dependency "i18n", '~> 0.5.4'
   spec.add_dependency "safe_yaml", '~> 1.0.4'
 
   spec.add_development_dependency "bundler", '~> 1.8'
