@@ -2,7 +2,7 @@
 require "./lib/pagseguro/version"
 
 Gem::Specification.new do |spec|
-  spec.required_ruby_version = ">= 2.0.0"
+  spec.required_ruby_version = ">= 1.9.3"
   spec.name                  = "pagseguro-transparente"
   spec.version               = PagSeguro::VERSION
   spec.authors               = ["Cirdes Henrique", "Bruno Luigi"]
